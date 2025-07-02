@@ -59,7 +59,7 @@ and highlight opportunities for improving customer targeting and retention strat
 ##  Key Insights
 
 - **What are the total revenue trends over time?**:  
-  **December** showed a **significant spike in revenue**, indicating **strong seasonal effects**.
+  **November** showed a **significant spike in revenue**, indicating **strong seasonal effects**.
 
 - **How does customer behavior differ between registered and guest users?**:  
   Guest users accounted for the **majority of returns**, suggesting a **need for better engagement**.
