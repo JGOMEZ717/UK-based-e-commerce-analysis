@@ -97,7 +97,7 @@ and highlight opportunities for improving customer targeting and retention strat
 
 ![Question_1](top5prod.png)  
 
-![Question_2](monthly.png)  
+![Question_2](monthlyrev.png)  
 
 ![Question_3](custtype.png)  
 
